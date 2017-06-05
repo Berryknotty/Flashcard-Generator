@@ -1,0 +1,52 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "What is the name of Mulan's pet dragon?",
+    "back": "Mushu"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "What was the first Disney Movie?",
+    "cloze": "Snow White"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who starts the fireworks show from Cinderellas castle?",
+    "back": "tinkerbell"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who was Jiminy Cricket?",
+    "back": "pinocchio's conscience"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Who founded the Disney Company?",
+    "cloze": "Walt Disney"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Who is Pooh's best friend?",
+    "back": "Christopher Robin"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Where is the Walt Disney World Resort?",
+    "cloze": "Florida"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Which Emperor turned into a llama?",
+    "back": "Emperor Kuzco"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Who does Minnie love?",
+    "cloze": "Mickey"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "What bird needs anger managment?",
+    "cloze": "Donald Duck"
+  }
+]
